@@ -32,7 +32,7 @@ import com.taplus.qa.actioninterface.ActionInterface;
 import com.taplus.qa.base.TestBase;
 
 /**
- * @authormana added on 13th March2019
+ * @author manikandan added on 13th March2019
  *
  */
 public class Action extends TestBase implements ActionInterface {
