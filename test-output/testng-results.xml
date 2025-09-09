@@ -2,24 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-04T12:22:43 IST" name="Default suite" finished-at="2025-09-04T12:22:45 IST" duration-ms="2719">
+  <suite started-at="2025-09-09T21:36:17 IST" name="Default suite" finished-at="2025-09-09T21:36:24 IST" duration-ms="7193">
     <groups>
     </groups>
-    <test started-at="2025-09-04T12:22:43 IST" name="Default test" finished-at="2025-09-04T12:22:45 IST" duration-ms="2719">
-      <class name="com.taplus.qa.testcases.HomePageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.taplus.qa.testcases.HomePageTest@206a70ef]" started-at="2025-09-04T12:22:43 IST" name="setup" finished-at="2025-09-04T12:22:45 IST" duration-ms="2464" status="PASS">
+    <test started-at="2025-09-09T21:36:17 IST" name="Default test" finished-at="2025-09-09T21:36:24 IST" duration-ms="7193">
+      <class name="com.taplus.qa.testcases.PassionPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.taplus.qa.testcases.PassionPageTest@568ff82]" started-at="2025-09-09T21:36:17 IST" name="setup" finished-at="2025-09-09T21:36:20 IST" duration-ms="3075" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="titleofpage()[pri:0, instance:com.taplus.qa.testcases.HomePageTest@206a70ef]" started-at="2025-09-04T12:22:45 IST" name="titleofpage" finished-at="2025-09-04T12:22:45 IST" duration-ms="19" status="PASS">
+        <test-method signature="closeXbutton()[pri:0, instance:com.taplus.qa.testcases.PassionPageTest@568ff82]" started-at="2025-09-09T21:36:20 IST" name="closeXbutton" finished-at="2025-09-09T21:36:24 IST" duration-ms="4078" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- titleofpage -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.taplus.qa.testcases.HomePageTest@206a70ef]" started-at="2025-09-04T12:22:45 IST" name="teardown" finished-at="2025-09-04T12:22:45 IST" duration-ms="198" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.taplus.qa.testcases.HomePageTest -->
+        </test-method> <!-- closeXbutton -->
+      </class> <!-- com.taplus.qa.testcases.PassionPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
